@@ -57,7 +57,7 @@ Aside
 if(PDF_EXPORT){
   cat("View this CV online with links at https://richterbine.github.io/CV-alinerichter/")
 } else {
-  cat("[<i class='fas fa-download'></i> Download a PDF of this CV](https://github.com/richterbine/CV_AlineRichter/tree/master/CV_AlineRichter.pdf)")
+  cat("[<i class='fas fa-download'></i> Download a PDF of this CV](https://github.com/richterbine/CV_AlineRichter/blob/master/CV_AlineRichter.pdf)")
 }
 ```
 
@@ -73,7 +73,7 @@ Contato {#contact}
 
  
 
-Softwares/Linguagens {#skills}
+Software/Linguagens {#skills}
 --------------------------------------------------------------------------------
 
 ```{r}
