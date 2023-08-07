@@ -55,7 +55,7 @@ Aside
 ```{r eval=FALSE, echo=FALSE}
 # When in export mode the little dots are unaligned, so fix that. 
 if(PDF_EXPORT){
-  cat("View this CV online with links at https://richterbine.github.io/CV-alinerichter/")
+  cat("View this CV online with links at https://richterbine.github.io/Currículo")
 } else {
   cat("[<i class='fas fa-download'></i> Download a PDF of this CV](https://github.com/richterbine/CV_AlineRichter/blob/master/CV_AlineRichter.pdf)")
 }
